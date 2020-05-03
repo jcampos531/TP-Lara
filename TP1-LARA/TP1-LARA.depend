@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1588541619 source:c:\users\joaquin\desktop\tsp - 2020\lab. computacion ii\ej archivos\tp1-lara\main.cpp
+	<iostream>
+	<clocale>
+	"includes/rlutil.h"
+	"includes/func.h"
+	"includes/platos.h"
+
+1587483770 c:\users\joaquin\desktop\tsp - 2020\lab. computacion ii\ej archivos\tp1-lara\includes\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1587851476 c:\users\joaquin\desktop\tsp - 2020\lab. computacion ii\ej archivos\tp1-lara\includes\prototipos.h
+
+1588541741 c:\users\joaquin\desktop\tsp - 2020\lab. computacion ii\ej archivos\tp1-lara\includes\func.h
+
+1588541568 c:\users\joaquin\desktop\tsp - 2020\lab. computacion ii\ej archivos\tp1-lara\includes\platos.h
+
